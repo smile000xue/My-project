@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FPGA_Whac_A_Mole.srcs/sources_1/new/Bcd_to_sevensegment.v" \
+"../../../../FPGA_Whac_A_Mole.srcs/sources_1/new/Binary_to_bcd.v" \
+"../../../../FPGA_Whac_A_Mole.srcs/sources_1/new/Button_debouncing.v" \
+"../../../../FPGA_Whac_A_Mole.srcs/sources_1/new/Display_seven_segment.v" \
+"../../../../FPGA_Whac_A_Mole.srcs/sources_1/new/Led_display.v" \
+"../../../../FPGA_Whac_A_Mole.srcs/sources_1/new/Random_number.v" \
+"../../../../FPGA_Whac_A_Mole.srcs/sources_1/new/Score_count.v" \
+"../../../../FPGA_Whac_A_Mole.srcs/sources_1/new/Sevensegment_select.v" \
+"../../../../FPGA_Whac_A_Mole.srcs/sources_1/new/Top_game_of_whack_a_mole.v" \
+"../../../../FPGA_Whac_A_Mole.srcs/sim_1/new/game_of_whack_a_mole_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

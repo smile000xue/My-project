@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sim_1/new/game_of_whack_a_mole_tb.v,1703078209,verilog,,,,game_of_whack_a_mole_tb,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Bcd_to_sevensegment.v,1703100693,verilog,,D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Binary_to_bcd.v,,Bcd_to_sevensegment,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Binary_to_bcd.v,1703077954,verilog,,D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Button_debouncing.v,,Binary_to_bcd,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Button_debouncing.v,1703078051,verilog,,D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Display_seven_segment.v,,Button_debuncing,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Display_seven_segment.v,1703077952,verilog,,D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Led_display.v,,Display_seven_segment,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Led_display.v,1703076327,verilog,,D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Random_number.v,,Led_display,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Random_number.v,1703077939,verilog,,D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Score_count.v,,Random_number,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Score_count.v,1703075728,verilog,,D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Sevensegment_select.v,,Score_count,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Sevensegment_select.v,1703077930,verilog,,D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Top_game_of_whack_a_mole.v,,sevensegment_select,,,,,,,,
+D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sources_1/new/Top_game_of_whack_a_mole.v,1703075946,verilog,,D:/Project/FPGA/FPGA_Whac_A_Mole/FPGA_Whac_A_Mole.srcs/sim_1/new/game_of_whack_a_mole_tb.v,,Top_game_of_whack_a_mole,,,,,,,,

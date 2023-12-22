@@ -1,0 +1,1 @@
+Based on studied in this semester,we plan make a game named Whac_A_Mole.The led is considered as hole and the key is considered as hammer.If the led lights up,it means the mouse is out of the hole.

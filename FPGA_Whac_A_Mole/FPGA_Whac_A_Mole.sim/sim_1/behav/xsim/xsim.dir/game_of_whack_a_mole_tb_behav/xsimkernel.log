@@ -1,0 +1,7 @@
+Running: xsim.dir/game_of_whack_a_mole_tb_behav/xsimk.exe -simmode gui -wdb game_of_whack_a_mole_tb_behav.wdb -simrunnum 0 -socket 64189
+Design successfully loaded
+Design Loading Memory Usage: 7912 KB (Peak: 7912 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8644 KB (Peak: 8644 KB)
+Simulation CPU Usage: 0 ms
