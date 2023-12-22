@@ -1,0 +1,2 @@
+# My-project
+Based on verilog learned in this semester, we plan to design a Whac a Mole game. Leds are considered rats and buttons are considered hammers. When the led light is on, it means the mouse is out of the hole. If the button you press corresponds to the led, the score will increase by 1. Key A corresponds to led1, key B corresponds to led2... Press H to correspond to led8. The maximum score is 100. A game will run for 60 seconds. If more than 60 seconds are passed, the game score will be cleared and the countdown will be restarted.
